@@ -1,1 +1,6 @@
+
 adding anouther line of text in the main branch
+
+file2 created, hopefully no more trouble
+
+
